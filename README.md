@@ -21,18 +21,19 @@ Gra_RPG/
 🚀 Jak to odpalić?
 Jeśli masz zainstalowany kompilator (np. g++ lub clang na macOS/Linuxie), możesz szybko odpalić grę prosto z terminala.
 
-Pobierz repozytorium na dysk.
+1. Pobierz repozytorium na dysk.
 
-Otwórz terminal w folderze z grą.
+2. Otwórz terminal w folderze z grą.
 
-Skompiluj wszystkie pliki źródłowe do jednego programu o nazwie gra:
+3. Skompiluj wszystkie pliki źródłowe do jednego programu o nazwie gra:
 ```
 Bash
 g++ main.cpp Bohater.cpp Potwor.cpp -o gra
-Uruchom gotową grę:
 ```
+4. Uruchom gotową grę:
+
 ```
 Bash
 ./gra
-Projekt tworzony w celach edukacyjnych, jako wstęp do bardziej zaawansowanych mechanik w C++. 🎮
 ```
+Projekt tworzony w celach edukacyjnych, jako wstęp do bardziej zaawansowanych mechanik w C++. 🎮
