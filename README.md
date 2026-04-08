@@ -18,7 +18,7 @@ Gra_RPG/
 ├── main.cpp                     # Punkt wejścia aplikacji, główna pętla gry
 └── README.md                    # Ten plik
 ```
-🚀 Jak to odpalić?
+## 🚀 Jak to odpalić?
 Jeśli masz zainstalowany kompilator (np. g++ lub clang na macOS/Linuxie), możesz szybko odpalić grę prosto z terminala.
 
 1. Pobierz repozytorium na dysk.
