@@ -1,0 +1,8 @@
+# Skompilowane pliki
+gra
+*.out
+*.exe
+*.o
+
+# Pliki systemowe Maca
+.DS_Store
